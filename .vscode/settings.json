@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/workspaces/war-mveras2",
+    "cmake.ignoreCMakeListsMissing": true,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
